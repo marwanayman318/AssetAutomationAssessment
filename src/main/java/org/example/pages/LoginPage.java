@@ -20,7 +20,6 @@ public class LoginPage extends BasePage {
     private final By continueBtn = By.className("a-button-input");
     private final By signInButton = By.id("signInSubmit");
     private final By message = By.cssSelector(".a-size-medium-plus.a-spacing-small");
-    private final By emailExists = By.className("a-form-label");
     private final By invalidPasswordMessage = By.className("a-list-item");
 
 
