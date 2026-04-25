@@ -4,6 +4,7 @@ package org.example.utils;
 import io.qameta.allure.Allure;
 
 import java.io.File;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
@@ -17,11 +18,11 @@ public class AllureUtils {
     public static void attachLogsToAllureReport() {
         try {
             File logFile = FileUtils.getLatestFile(LogsUtil.LOGS_PATH);
-            if (!logFile.exists()) {
+            if (logFile == null || !logFile.exists()) {
                 LogsUtil.warn("Log file does not exist: " + LogsUtil.LOGS_PATH);
                 return;
             }
-            Allure.addAttachment("Logs File", Files.readString(Path.of(logFile.getPath())));
+            Allure.addAttachment("Logs File", new String(Files.readAllBytes(Path.of(logFile.getPath())), StandardCharsets.UTF_8));
             LogsUtil.info("Attached logs to Allure report");
         } catch (Exception e) {
             LogsUtil.error("Error attaching logs to Allure report: " + e.getMessage());

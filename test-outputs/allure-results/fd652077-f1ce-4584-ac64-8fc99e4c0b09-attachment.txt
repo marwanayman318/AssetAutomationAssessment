@@ -7435,16 +7435,16 @@ Account & Lists
 [INFO] - [25-04-2026 15:21:14] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
 [INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
 [INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
-[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping size lookup ï¿½ no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping color lookup ï¿½ no variant swatch was found on this product
 [INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
 [INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
 [INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
 [INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
 [INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
 [INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
-[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping size lookup ï¿½ no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping color lookup ï¿½ no variant swatch was found on this product
 [INFO] - [25-04-2026 15:21:19] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
 [INFO] - [25-04-2026 15:21:19] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
 [INFO] - [25-04-2026 15:21:19] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
@@ -7456,8 +7456,8 @@ Account & Lists
 [INFO] - [25-04-2026 15:21:21] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
 [INFO] - [25-04-2026 15:21:25] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
 [INFO] - [25-04-2026 15:21:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
-[INFO] - [25-04-2026 15:21:25] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 15:21:25] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:25] [main] [org.example.pages.ProductPage] - Skipping size lookup ï¿½ no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:25] [main] [org.example.pages.ProductPage] - Skipping color lookup ï¿½ no variant swatch was found on this product
 [INFO] - [25-04-2026 15:21:25] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
 [INFO] - [25-04-2026 15:21:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
 [INFO] - [25-04-2026 15:21:26] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
@@ -7474,8 +7474,8 @@ Account & Lists
 [INFO] - [25-04-2026 15:21:31] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
 [INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
 [INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
-[INFO] - [25-04-2026 15:21:34] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 15:21:34] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.pages.ProductPage] - Skipping size lookup ï¿½ no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.pages.ProductPage] - Skipping color lookup ï¿½ no variant swatch was found on this product
 [INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
 [INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
 [INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
@@ -7799,106 +7799,17 @@ Account & Lists
 [INFO] - [25-04-2026 18:44:30] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
 [INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
 [INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
-[INFO] - [25-04-2026 18:44:34] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 18:44:34] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.pages.ProductPage] - Skipping size lookup ï¿½ no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.pages.ProductPage] - Skipping color lookup ï¿½ no variant swatch was found on this product
 [INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
 [INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
 [INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
 [INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
 [INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
 [INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
-[INFO] - [25-04-2026 18:44:35] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 18:44:35] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.pages.ProductPage] - Skipping size lookup ï¿½ no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.pages.ProductPage] - Skipping color lookup ï¿½ no variant swatch was found on this product
 [INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
 [INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
 [INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
 [INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
-[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
-[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
-[INFO] - [25-04-2026 18:44:36] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
-[INFO] - [25-04-2026 18:44:36] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
-[INFO] - [25-04-2026 18:44:36] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
-[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
-[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
-[INFO] - [25-04-2026 18:44:40] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 18:44:40] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
-[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
-[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
-[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
-[INFO] - [25-04-2026 18:44:41] [main] [org.example.pages.ProductPage] - Quantity selected: 2
-[INFO] - [25-04-2026 18:44:41] [main] [org.example.pages.ProductPage] - Second variant not available, proceeding with default selection
-[INFO] - [25-04-2026 18:44:44] [main] [org.example.pages.ProductPage] - No such pop-up appeared
-[INFO] - [25-04-2026 18:44:44] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.sw-atc-text
-[INFO] - [25-04-2026 18:44:44] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.sw-atc-text Text:  Added to cart
-[INFO] - [25-04-2026 18:44:44] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
-[INFO] - [25-04-2026 18:44:44] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
-[INFO] - [25-04-2026 18:44:46] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
-[INFO] - [25-04-2026 18:44:46] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
-[INFO] - [25-04-2026 18:44:46] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.pages.ProductPage] - Quantity selected: 2
-[INFO] - [25-04-2026 18:44:50] [main] [org.example.pages.ProductPage] - Second variant not available, proceeding with default selection
-[INFO] - [25-04-2026 18:44:52] [main] [org.example.pages.ProductPage] - No such pop-up appeared
-[INFO] - [25-04-2026 18:44:52] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: span.a-price-whole
-[INFO] - [25-04-2026 18:44:52] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: span.a-price-whole Text:  1,008
-[INFO] - [25-04-2026 18:44:52] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: span.a-price-fraction
-[INFO] - [25-04-2026 18:44:52] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: span.a-price-fraction Text:  00
-[INFO] - [25-04-2026 18:44:53] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.sw-atc-text
-[INFO] - [25-04-2026 18:44:53] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.sw-atc-text Text:  Added to cart
-[INFO] - [25-04-2026 18:44:53] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a.a-button-text
-[INFO] - [25-04-2026 18:44:54] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a.a-button-text  | Text:  Go to basket
-[INFO] - [25-04-2026 18:44:54] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: nav-cart-count
-[INFO] - [25-04-2026 18:44:54] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: nav-cart-count Text:  4
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: div.sc-list-item span.a-truncate-cut
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: div.sc-list-item span.a-truncate-cut Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@data-a-selector='inner-value']
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@data-a-selector='inner-value'] Text:  4
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: span.sc-product-price
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: span.sc-product-price Text:  EGP252.00
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: sc-subtotal-amount-activecart
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: sc-subtotal-amount-activecart Text:   EGP 1,008.00
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
-[INFO] - [25-04-2026 18:44:55] [main] [org.example.utils.BrowserActions] - Quitting the browser.
-[INFO] - [25-04-2026 18:44:57] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
-[INFO] - [25-04-2026 18:44:58] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
-[INFO] - [25-04-2026 18:44:58] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
-[INFO] - [25-04-2026 18:45:02] [main] [org.example.utils.ElementsActions] - Hovering on element located by:  By.id: nav-link-accountList Text:  Hello, sign in
-Account & Lists
-[INFO] - [25-04-2026 18:45:03] [main] [org.example.utils.ElementsActions] - Clicked on element located by:  By.id: nav_prefetch_yourorders Text:  Your Orders
-[INFO] - [25-04-2026 18:45:03] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.a-size-medium-plus.a-spacing-small
-[INFO] - [25-04-2026 18:45:03] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.a-size-medium-plus.a-spacing-small Text:  Sign in or create account
-[INFO] - [25-04-2026 18:45:03] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
-[INFO] - [25-04-2026 18:45:04] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
-[INFO] - [25-04-2026 18:45:04] [main] [org.example.utils.ElementsActions] - Hovering on element located by:  By.id: nav-link-accountList Text:  Hello, sign in
-Account & Lists
-[INFO] - [25-04-2026 18:45:05] [main] [org.example.utils.ElementsActions] - Clicked on element located by:  By.id: nav_prefetch_youraddresses Text:  Your Addresses
-[INFO] - [25-04-2026 18:45:05] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.a-size-medium-plus.a-spacing-small
-[INFO] - [25-04-2026 18:45:05] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.a-size-medium-plus.a-spacing-small Text:  Sign in or create account
-[INFO] - [25-04-2026 18:45:06] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
-[INFO] - [25-04-2026 18:45:06] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
-[INFO] - [25-04-2026 18:45:07] [main] [org.example.utils.ElementsActions] - Hovering on element located by:  By.id: nav-link-accountList Text:  Hello, sign in
-Account & Lists
-[INFO] - [25-04-2026 18:45:08] [main] [org.example.utils.ElementsActions] - Clicked on element located by:  By.cssSelector: a[href*='wishlist'] Text:  Create a List
-[INFO] - [25-04-2026 18:45:08] [main] [org.example.utils.BrowserActions] - Current URL is: https://www.amazon.eg/hz/wishlist/intro.
-[INFO] - [25-04-2026 18:45:09] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
-[INFO] - [25-04-2026 18:45:09] [main] [org.example.utils.BrowserActions] - Quitting the browser.
-[INFO] - [25-04-2026 18:45:10] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
-[INFO] - [25-04-2026 18:45:12] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
-[INFO] - [25-04-2026 18:45:14] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.className: nav-line-1-container
-[INFO] - [25-04-2026 18:45:15] [main] [org.example.utils.ElementsActions] - Clicked element:  By.className: nav-line-1-container  | Text:  Hello, sign in
-[INFO] - [25-04-2026 18:45:15] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: ap_email_login
-[INFO] - [25-04-2026 18:45:16] [main] [org.example.utils.ElementsActions] - Sent data: 'test123@gmail.com' to element located by:  By.id: ap_email_login Text:  
-[INFO] - [25-04-2026 18:45:16] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.className: a-button-input
-[INFO] - [25-04-2026 18:45:17] [main] [org.example.utils.ElementsActions] - Clicked element:  By.className: a-button-input  | Text:  
-[INFO] - [25-04-2026 18:45:17] [main] [org.example.utils.BrowserActions] - Current page title is: Amazon Sign In.
-[INFO] - [25-04-2026 18:45:17] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
-[INFO] - [25-04-2026 18:45:17] [main] [org.example.utils.BrowserActions] - Quitting the browser.
-[INFO] - [25-04-2026 18:45:18] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results

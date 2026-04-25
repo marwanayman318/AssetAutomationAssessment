@@ -7425,3 +7425,409 @@ Account & Lists
 [INFO] - [25-04-2026 15:21:06] [main] [org.example.utils.ElementsActions] - Clicked element:  By.className: a-button-input  | Text:  
 [INFO] - [25-04-2026 15:21:06] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: .a-size-medium-plus.a-spacing-small
 [INFO] - [25-04-2026 15:21:06] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: .a-size-medium-plus.a-spacing-small Text:  Looks like you're new to Amazon
+[INFO] - [25-04-2026 15:21:06] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
+[INFO] - [25-04-2026 15:21:06] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 15:21:07] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 15:21:09] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 15:21:12] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 15:21:13] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 15:21:13] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 15:21:14] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping size lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping color lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping size lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:18] [main] [org.example.pages.ProductPage] - Skipping color lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:19] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 15:21:19] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
+[INFO] - [25-04-2026 15:21:19] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 15:21:19] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[ERROR] - [25-04-2026 15:21:19] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 15:21:19] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 15:21:20] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 15:21:20] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 15:21:21] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 15:21:25] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 15:21:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
+[INFO] - [25-04-2026 15:21:25] [main] [org.example.pages.ProductPage] - Skipping size lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:25] [main] [org.example.pages.ProductPage] - Skipping color lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:25] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 15:21:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
+[INFO] - [25-04-2026 15:21:26] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 15:21:26] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 15:21:26] [main] [org.example.pages.ProductPage] - Quantity selected: 2
+[INFO] - [25-04-2026 15:21:26] [main] [org.example.pages.ProductPage] - Second variant not available, proceeding with default selection
+[INFO] - [25-04-2026 15:21:29] [main] [org.example.pages.ProductPage] - No such pop-up appeared
+[INFO] - [25-04-2026 15:21:29] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.sw-atc-text
+[INFO] - [25-04-2026 15:21:29] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.sw-atc-text Text:  Added to cart
+[ERROR] - [25-04-2026 15:21:30] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 15:21:30] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 15:21:31] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 15:21:31] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 15:21:31] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.pages.ProductPage] - Skipping size lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.pages.ProductPage] - Skipping color lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 15:21:34] [main] [org.example.pages.ProductPage] - Quantity selected: 2
+[INFO] - [25-04-2026 15:21:35] [main] [org.example.pages.ProductPage] - Second variant not available, proceeding with default selection
+[INFO] - [25-04-2026 15:21:36] [main] [org.example.pages.ProductPage] - No such pop-up appeared
+[INFO] - [25-04-2026 15:21:36] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: span.a-price-whole
+[INFO] - [25-04-2026 15:21:36] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: span.a-price-whole Text:  900
+[INFO] - [25-04-2026 15:21:36] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: span.a-price-fraction
+[INFO] - [25-04-2026 15:21:36] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: span.a-price-fraction Text:  00
+[INFO] - [25-04-2026 15:21:36] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.sw-atc-text
+[INFO] - [25-04-2026 15:21:36] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.sw-atc-text Text:  Added to cart
+[INFO] - [25-04-2026 15:21:36] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a.a-button-text
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a.a-button-text  | Text:  Go to basket
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: nav-cart-count
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: nav-cart-count Text:  4
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: div.sc-list-item span.a-truncate-cut
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: div.sc-list-item span.a-truncate-cut Text:  Clary Hair Leave In Cream 300 gm
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@data-a-selector='inner-value']
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@data-a-selector='inner-value'] Text:  4
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: span.sc-product-price
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: span.sc-product-price Text:  EGP225.00
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: sc-subtotal-amount-activecart
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: sc-subtotal-amount-activecart Text:   EGP 900.00
+[ERROR] - [25-04-2026 15:21:38] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 15:21:38] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 15:21:40] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 15:21:42] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 15:21:42] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 15:21:45] [main] [org.example.utils.ElementsActions] - Hovering on element located by:  By.id: nav-link-accountList Text:  Hello, sign in
+Account & Lists
+[INFO] - [25-04-2026 15:21:46] [main] [org.example.utils.ElementsActions] - Clicked on element located by:  By.id: nav_prefetch_yourorders Text:  Your Orders
+[INFO] - [25-04-2026 15:21:46] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.a-size-medium-plus.a-spacing-small
+[INFO] - [25-04-2026 15:21:46] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.a-size-medium-plus.a-spacing-small Text:  Sign in or create account
+[ERROR] - [25-04-2026 15:21:46] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 15:21:47] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 15:21:48] [main] [org.example.utils.ElementsActions] - Hovering on element located by:  By.id: nav-link-accountList Text:  Hello, sign in
+Account & Lists
+[INFO] - [25-04-2026 15:21:48] [main] [org.example.utils.ElementsActions] - Clicked on element located by:  By.id: nav_prefetch_youraddresses Text:  Your Addresses
+[INFO] - [25-04-2026 15:21:48] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.a-size-medium-plus.a-spacing-small
+[INFO] - [25-04-2026 15:21:48] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.a-size-medium-plus.a-spacing-small Text:  Sign in or create account
+[ERROR] - [25-04-2026 15:21:49] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 15:21:49] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 15:21:50] [main] [org.example.utils.ElementsActions] - Hovering on element located by:  By.id: nav-link-accountList Text:  Hello, sign in
+Account & Lists
+[INFO] - [25-04-2026 15:21:51] [main] [org.example.utils.ElementsActions] - Clicked on element located by:  By.cssSelector: a[href*='wishlist'] Text:  Create a List
+[INFO] - [25-04-2026 15:21:51] [main] [org.example.utils.BrowserActions] - Current URL is: https://www.amazon.eg/hz/wishlist/intro.
+[ERROR] - [25-04-2026 15:21:51] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 15:21:51] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 15:21:53] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 15:21:58] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 15:21:58] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.className: nav-line-1-container
+[INFO] - [25-04-2026 15:22:01] [main] [org.example.utils.ElementsActions] - Clicked element:  By.className: nav-line-1-container  | Text:  Hello, sign in
+[INFO] - [25-04-2026 15:22:01] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: ap_email_login
+[INFO] - [25-04-2026 15:22:01] [main] [org.example.utils.ElementsActions] - Sent data: 'test123@gmail.com' to element located by:  By.id: ap_email_login Text:  
+[INFO] - [25-04-2026 15:22:01] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.className: a-button-input
+[INFO] - [25-04-2026 15:22:03] [main] [org.example.utils.ElementsActions] - Clicked element:  By.className: a-button-input  | Text:  
+[INFO] - [25-04-2026 15:22:03] [main] [org.example.utils.BrowserActions] - Current page title is: Amazon Sign In.
+[ERROR] - [25-04-2026 15:22:03] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 15:22:03] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 15:22:04] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 17:33:31] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 17:33:32] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 17:33:32] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 17:33:32] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 17:33:32] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 17:33:32] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 17:34:09] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 17:34:10] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 17:34:10] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 17:34:10] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 17:34:10] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 17:34:11] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 17:34:39] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 17:34:41] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 17:34:41] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 17:34:41] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 17:34:41] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 17:34:45] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 17:34:46] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 17:34:49] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 17:34:51] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 17:34:51] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 17:34:51] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 17:34:55] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 17:34:55] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
+[INFO] - [25-04-2026 17:34:55] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 17:34:55] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 17:34:55] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Clary Hair Leave In Cream 300 gm
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  225
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 17:34:56] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[ERROR] - [25-04-2026 17:34:57] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 17:34:57] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 17:34:57] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 18:11:44] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 18:11:47] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 18:11:47] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 18:11:47] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 18:11:47] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 18:11:58] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 18:12:03] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:12:06] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 18:12:10] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 18:12:10] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 18:12:11] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 18:12:24] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:12:24] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:12:24] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:12:24] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:12:24] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:12:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:12:25] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:12:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:12:25] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:12:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:12:25] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:12:25] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:12:26] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:12:26] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:12:26] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:12:26] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[ERROR] - [25-04-2026 18:12:27] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 18:12:27] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 18:12:28] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 18:15:47] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 18:15:51] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 18:15:51] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 18:15:51] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 18:15:51] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 18:16:01] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 18:16:04] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:16:11] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 18:16:15] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 18:16:17] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 18:16:17] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 18:16:25] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:16:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:16:25] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:16:25] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:16:25] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:16:25] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:16:26] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:16:26] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:16:27] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:16:27] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:16:27] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:16:27] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:16:27] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:16:27] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:16:27] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:16:27] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[ERROR] - [25-04-2026 18:16:28] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 18:16:28] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 18:16:29] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 18:24:26] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 18:24:27] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 18:24:27] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 18:24:27] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 18:24:27] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 18:24:33] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 18:24:57] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:24:58] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:25:20] [main] [org.example.utils.ElementsActions] - Hovering on element located by:  By.id: nav-link-accountList Text:  Hello, sign in
+Account & Lists
+[INFO] - [25-04-2026 18:25:26] [main] [org.example.utils.ElementsActions] - Clicked on element located by:  By.id: nav_prefetch_yourorders Text:  Your Orders
+[INFO] - [25-04-2026 18:25:26] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.a-size-medium-plus.a-spacing-small
+[INFO] - [25-04-2026 18:25:26] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.a-size-medium-plus.a-spacing-small Text:  Sign in or create account
+[ERROR] - [25-04-2026 18:25:27] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 18:25:27] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 18:25:27] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 18:28:31] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 18:28:32] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 18:28:32] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 18:28:32] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 18:28:32] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 18:28:35] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[ERROR] - [25-04-2026 18:29:16] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 18:29:16] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 18:29:36] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 18:29:37] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 18:29:37] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 18:29:37] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 18:29:37] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 18:29:39] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 18:29:44] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:29:44] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 18:29:46] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 18:29:46] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 18:29:46] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 18:29:52] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:29:52] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:29:52] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:29:52] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:29:52] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:29:52] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:29:52] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:29:52] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:29:53] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:29:53] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:29:53] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:29:53] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:29:53] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:29:53] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:29:53] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:29:53] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[ERROR] - [25-04-2026 18:29:53] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 18:29:54] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 18:29:54] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 18:36:24] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 18:36:25] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 18:36:25] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 18:36:25] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 18:36:25] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 18:36:28] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 18:36:30] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:36:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 18:36:36] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 18:36:36] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 18:36:36] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 18:36:41] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:36:41] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:36:41] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:36:41] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:36:41] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:36:41] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:36:41] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:36:41] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[ERROR] - [25-04-2026 18:36:42] [main] [org.example.utils.AllureUtils] - Error attaching logs to Allure report: Input length = 1
+[INFO] - [25-04-2026 18:36:42] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 18:36:43] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 18:42:36] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [25-04-2026 18:42:37] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 18:42:37] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 18:42:37] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 18:42:37] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\marwa\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [25-04-2026 18:42:39] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 18:42:43] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:42:43] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 18:42:45] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 18:42:45] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 18:42:45] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 18:42:49] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:42:50] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:42:51] [main] [org.example.pages.ProductPage] - Skipping size lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:42:51] [main] [org.example.pages.ProductPage] - Skipping color lookup — no variant swatch was found on this product
+[INFO] - [25-04-2026 18:42:51] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:42:51] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:42:51] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:42:51] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:42:51] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
+[INFO] - [25-04-2026 18:42:51] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 18:42:52] [main] [org.example.listeners.BaseListeners] - Test execution finished. Allure results are ready in: C:\Users\marwa\IdeaProjects\Assessment\test-outputs\allure-results
+[DEBUG] - [25-04-2026 18:44:07] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\marwa\IdeaProjects\Assessment\testng.xml"
+[WARN] - [25-04-2026 18:44:07] [main] [org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\marwa\IdeaProjects\Assessment\testng.xml] otherwise TestNG may fail or not work as expected.
+[INFO] - [25-04-2026 18:44:08] [main] [org.example.listeners.BaseListeners] - Test execution started. Cleaning up old Allure results...
+[INFO] - [25-04-2026 18:44:08] [main] [org.example.listeners.BaseListeners] - Test execution started.
+[ERROR] - [25-04-2026 18:44:08] [main] [org.example.utils.FileUtils] - 1 exception(s): [org.apache.commons.io.IOIndexedException: IOException #0: Cannot delete file: test-outputs\logs\application.log]
+[INFO] - [25-04-2026 18:44:11] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 18:44:13] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:44:17] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.className: nav-line-1-container
+[INFO] - [25-04-2026 18:44:18] [main] [org.example.utils.ElementsActions] - Clicked element:  By.className: nav-line-1-container  | Text:  Hello, sign in
+[INFO] - [25-04-2026 18:44:18] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: ap_email_login
+[INFO] - [25-04-2026 18:44:19] [main] [org.example.utils.ElementsActions] - Sent data: 'test151@gmail.com' to element located by:  By.id: ap_email_login Text:  
+[INFO] - [25-04-2026 18:44:19] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.className: a-button-input
+[INFO] - [25-04-2026 18:44:20] [main] [org.example.utils.ElementsActions] - Clicked element:  By.className: a-button-input  | Text:  
+[INFO] - [25-04-2026 18:44:20] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: .a-size-medium-plus.a-spacing-small
+[INFO] - [25-04-2026 18:44:20] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: .a-size-medium-plus.a-spacing-small Text:  Looks like you're new to Amazon
+[INFO] - [25-04-2026 18:44:20] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
+[INFO] - [25-04-2026 18:44:20] [main] [org.example.utils.BrowserActions] - Quitting the browser.
+[INFO] - [25-04-2026 18:44:22] [main] [org.example.drivers.DriverManager] - Created WebDriver instance for browser: edge
+[INFO] - [25-04-2026 18:44:23] [main] [org.example.utils.BrowserActions] - Navigated to URL: https://www.amazon.eg/
+[INFO] - [25-04-2026 18:44:28] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 18:44:30] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 18:44:30] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 18:44:30] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.pages.ProductPage] - Skipping size lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.pages.ProductPage] - Skipping color lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:44:34] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.pages.ProductPage] - Skipping size lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.pages.ProductPage] - Skipping color lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.AllureUtils] - Attached logs to Allure report
+[INFO] - [25-04-2026 18:44:35] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']
+[INFO] - [25-04-2026 18:44:36] [main] [org.example.utils.ElementsActions] - Clicked element:  By.cssSelector: a[data-csa-c-content-id='nav_cs_gb']  | Text:  Today's Deals
+[INFO] - [25-04-2026 18:44:36] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: discount-bubble-discounts-collection-deals-ending-today
+[INFO] - [25-04-2026 18:44:36] [main] [org.example.utils.ElementsActions] - Clicked element:  By.id: discount-bubble-discounts-collection-deals-ending-today  | Text:  Ends Tonight
+[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.id: productTitle
+[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.id: productTitle Text:  Bobai Sun Screen Oil Defense Fluid SPF 50 75 ml
+[INFO] - [25-04-2026 18:44:40] [main] [org.example.pages.ProductPage] - Skipping size lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:40] [main] [org.example.pages.ProductPage] - Skipping color lookup � no variant swatch was found on this product
+[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-whole']
+[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-whole'] Text:  252
+[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.xpath: //span[@class='a-price-fraction']
+[INFO] - [25-04-2026 18:44:40] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.xpath: //span[@class='a-price-fraction'] Text:  00
+[INFO] - [25-04-2026 18:44:41] [main] [org.example.pages.ProductPage] - Quantity selected: 2
+[INFO] - [25-04-2026 18:44:41] [main] [org.example.pages.ProductPage] - Second variant not available, proceeding with default selection
+[INFO] - [25-04-2026 18:44:44] [main] [org.example.pages.ProductPage] - No such pop-up appeared
+[INFO] - [25-04-2026 18:44:44] [main] [org.example.utils.Scrolling] - Scrolling to element located by: By.cssSelector: h1.sw-atc-text
+[INFO] - [25-04-2026 18:44:44] [main] [org.example.utils.ElementsActions] - Retrieved text from element located by:  By.cssSelector: h1.sw-atc-text Text:  Added to cart
