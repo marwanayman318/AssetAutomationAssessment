@@ -10,11 +10,11 @@ Make sure the following are installed before running the tests:
 
 | Tool | Version | Download |
 |---|---|---|
-| Java JDK | 11 or higher | https://adoptium.net |
+| Java JDK | 11 to 17 | https://adoptium.net |
 | Maven | 3.8 or higher | https://maven.apache.org/download.cgi |
 | Git | Any | https://git-scm.com/download/win |
 | Microsoft Edge | Latest | https://www.microsoft.com/en-us/edge |
-| Allure CLI | 2.x | https://docs.qameta.io/allure/#_installing_a_commandline |
+| Allure CLI | 2.24.0 | https://docs.qameta.io/allure/#_installing_a_commandline |
 
 Verify your setup by running:
 
